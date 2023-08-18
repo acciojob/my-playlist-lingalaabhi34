@@ -7,3 +7,10 @@ body{
   padding: 10px;
   border-radius: 25px;
 }
+.list{
+list-style-type: none;
+	
+  }
+.list1{
+	text-decoration-line: none;
+}
